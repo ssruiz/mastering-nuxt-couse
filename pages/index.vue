@@ -1,0 +1,1 @@
+<template>Hello NUXT3!</template>
